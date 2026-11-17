@@ -59,3 +59,4 @@ Blog-UI/
 ## Author
 
 Sanya Singh
+<img width="1893" height="948" alt="image" src="https://github.com/user-attachments/assets/09ae844f-f0c7-4475-8992-40e808aaa5b4" />
