@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Artificial Intelligence",
+    "category": "Technology",
+    "author": "Sanya Singh",
+    "date": "November 10, 2026",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1000",
+    "excerpt": "Explore how artificial intelligence is changing the way we live, work and think.",
+    "content": [
+      "Artificial Intelligence is transforming the modern world. From smart assistants to advanced healthcare systems, AI is becoming an important part of everyday life.",
+      "How AI is changing technology",
+      "AI can process large amounts of information, recognize patterns and help people make better decisions. Businesses use AI to improve customer service, automate repetitive work and create new products.",
+      "What does the future hold?",
+      "The future of AI is full of possibilities. Learning about AI today can help students and professionals prepare for tomorrow. However, responsible development and ethical use are equally important."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Simple Habits for a Better Life",
+    "category": "Lifestyle",
+    "author": "Ananya Sharma",
+    "date": "November 08, 2026",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1000",
+    "excerpt": "Small daily habits can create meaningful changes in your life.",
+    "content": [
+      "A better lifestyle does not always require big changes. Small improvements made consistently can create a positive impact over time.",
+      "Build a healthy routine",
+      "Start your morning with a glass of water, some movement and a clear plan for the day. These simple activities can help you feel more organized.",
+      "Stay consistent",
+      "Remember that progress takes time. Focus on small improvements instead of expecting perfection every day."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Beautiful Places You Must Explore",
+    "category": "Travel",
+    "author": "Rahul Verma",
+    "date": "November 05, 2026",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1000",
+    "excerpt": "Discover the beauty of travelling and exploring new destinations.",
+    "content": [
+      "Travelling is one of the best ways to discover new cultures, people and experiences. Every destination has a unique story to tell.",
+      "Explore beyond your comfort zone",
+      "Visit natural landscapes, historic places and local markets. Talking to local people can make your travel experience more meaningful.",
+      "Make memories",
+      "Travel does not have to be expensive. Even exploring nearby places can provide unforgettable experiences."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Why Learning to Code Matters",
+    "category": "Education",
+    "author": "Priya Kumar",
+    "date": "November 02, 2026",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1000",
+    "excerpt": "Coding teaches problem-solving and helps turn creative ideas into reality.",
+    "content": [
+      "Programming is more than writing lines of code. It is a way to solve problems and build useful things.",
+      "Develop problem-solving skills",
+      "Learning programming helps you break complex problems into smaller steps. Languages like Python, Java and JavaScript are great starting points.",
+      "Build something useful",
+      "Start with small projects such as a calculator, portfolio website or to-do application. Practical experience helps you improve."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "How to Start Your Own Startup",
+    "category": "Business",
+    "author": "Arjun Mehta",
+    "date": "October 29, 2026",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1000",
+    "excerpt": "Turn your ideas into action with a practical approach to entrepreneurship.",
+    "content": [
+      "Every successful startup begins with an idea. But an idea alone is not enough. Execution, research and consistency are essential.",
+      "Find a real problem",
+      "Look for problems people experience in their daily lives. Talk to potential users and understand what they actually need.",
+      "Build and improve",
+      "Create a simple first version of your product. Collect feedback, improve the experience and continue learning from your users."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Power of Creative Thinking",
+    "category": "Lifestyle",
+    "author": "Meera Patel",
+    "date": "October 25, 2026",
+    "readTime": "3 min read",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1000",
+    "excerpt": "Learn how curiosity and imagination can help you generate fresh ideas.",
+    "content": [
+      "Creative thinking helps us see problems from different perspectives. It is useful in education, business, technology and everyday life.",
+      "Give yourself space to think",
+      "Try reading, drawing, writing or exploring new subjects. Different experiences can inspire unexpected ideas.",
+      "Turn ideas into action",
+      "Do not wait for a perfect idea. Write your thoughts down, experiment and learn from the results."
+    ]
+  }
+]

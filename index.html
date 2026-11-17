@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="BlogSpace - Stories, ideas and inspiration.">
+    <title>BlogSpace | Discover Stories</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header class="navbar">
+        <a href="index.html" class="logo">Blog<span>Space.</span></a>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#blogs">Explore</a>
+            <a href="#about">About</a>
+        </nav>
+
+        <a href="#blogs" class="nav-btn">Explore Blogs ↗</a>
+    </header>
+
+    <main>
+        <section class="hero" id="home">
+            <div class="hero-content">
+                <p class="eyebrow">A PLACE FOR IDEAS AND STORIES</p>
+                <h1>Read something<br>that <span>moves you.</span></h1>
+                <p class="hero-description">
+                    Discover fresh perspectives, inspiring stories,
+                    technology, lifestyle and ideas from curious minds.
+                </p>
+                <a href="#blogs" class="primary-btn">Start Reading →</a>
+            </div>
+
+            <div class="hero-image">
+                <img
+                    src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=900"
+                    alt="Beautiful library with books">
+            </div>
+        </section>
+
+        <section class="blog-section" id="blogs">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">OUR COLLECTION</p>
+                    <h2>Latest Stories<span>.</span></h2>
+                </div>
+                <p>Ideas worth your time.</p>
+            </div>
+
+            <div class="search-container">
+                <input
+                    type="search"
+                    id="searchInput"
+                    placeholder="Search articles..."
+                    aria-label="Search articles">
+
+                <select id="categoryFilter" aria-label="Filter by category">
+                    <option value="All">All Categories</option>
+                    <option value="Technology">Technology</option>
+                    <option value="Lifestyle">Lifestyle</option>
+                    <option value="Travel">Travel</option>
+                    <option value="Education">Education</option>
+                    <option value="Business">Business</option>
+                </select>
+            </div>
+
+            <p id="statusMessage" class="status-message" role="status">
+                Loading articles...
+            </p>
+
+            <div class="blog-grid" id="blogContainer"></div>
+        </section>
+
+        <section class="about-section" id="about">
+            <p class="eyebrow">ABOUT BLOGSPACE</p>
+            <h2>Every story has something to teach.</h2>
+            <p>
+                BlogSpace is a place where knowledge meets creativity.
+                Explore ideas, learn something new and stay inspired.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <a href="index.html" class="logo">Blog<span>Space.</span></a>
+        <p>© 2026 BlogSpace. Built with creativity.</p>
+    </footer>
+
+</body>
+</html>
